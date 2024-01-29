@@ -2,6 +2,8 @@
 * 옷감 입자의 물리적 속성을 활용하여 가상 시뮬레이션 장면에 맞는 옷감 소리 합성
 * 입자의 곡률과 마찰 계수를 계산하여 소리를 합성하는 방법
 
+[dbpia 논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11140498)
+
 # 프로젝트 기간
 * 2022.01 ~ 2022.06
 
